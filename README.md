@@ -1,6 +1,6 @@
 ## React Todo list app
 
-Simple react CRUD app created to test the capabilities of the Heroku deployment proccess.
+Simple React CRUD app created to test capabilities of deployment to [Heroku cloud platform|https://www.heroku.com].
 
 The working app can be found here: https://gsd-react-todo.herokuapp.com/
 
